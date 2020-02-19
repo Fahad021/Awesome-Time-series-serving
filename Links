@@ -1,0 +1,9 @@
+1. Serving Prophet Model with Flask- Predicting Future: 
+The solution to demonstrate how to serve Prophet model API on the Web with Flask. Prophet — Open-Source Python library developed by Facebook to predict time series data.
+https://towardsdatascience.com/serving-prophet-model-with-flask-predicting-future-1896986da05f
+
+2. Deploy a Trained RNN/LSTM Model with TensorFlow-Serving and Flask, Part 1: Introduction and Installations
+Deploy a Trained RNN/LSTM Model with TensorFlow-Serving and Flask, Part 2: Export and Serve Model with ModelSaver
+
+https://medium.com/repro-repo/deploy-a-trained-rnn-lstm-model-with-tensorflow-serving-and-flask-part-1-introduction-and-336dbb8f02f
+https://medium.com/repro-repo/deploy-a-trained-rnn-lstm-model-with-tensorflow-serving-and-flask-part-2-export-and-serve-model-795e0fd0de1b
